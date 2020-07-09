@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ My name is Ezzdin Atef Gomaa from Egypt, I'm a student of software engineering at Helwan University and I love Web Development.
+ 
 <!--
 **ezzdin-atef/ezzdin-atef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
