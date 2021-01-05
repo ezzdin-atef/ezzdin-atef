@@ -28,11 +28,23 @@
  </p>
 </details>
   
+  
+<a href="https://github.com/ezzdin-atef">
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ezzdin-atef&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/ezzdin-atef">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ezzdin-atef&layout=compact&theme=radical" />
+</a>
+  
+  
 📫 How to reach me:
 * [Twitter](https://twitter.com/ezzdin_atef)
 * [LinkedIn](https://www.linkedin.com/in/ezzdin-atef)
 * [Dev.to](https://dev.to/ezzdinatef)
 * [CodePen](https://codepen.io/ezzdin_atef)
+
+ 
+ 
+ 
  
 <!--
 **ezzdin-atef/ezzdin-atef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
