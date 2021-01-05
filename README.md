@@ -28,11 +28,6 @@
  </p>
 </details>
 
-<a href="https://github.com/ezzdin-atef">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ezzdin-atef&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<br /><br />
-
-
 📫 How to reach me:
 * [Twitter](https://twitter.com/ezzdin_atef)
 * [LinkedIn](https://www.linkedin.com/in/ezzdin-atef)
