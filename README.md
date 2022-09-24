@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/ezzdin-atef/ezzdin-atef/master/images/hero.png)](https://ezzdinatef.me)
 ### Hey there 👋
  My name is Ezzdin Atef from Egypt, I'm a student of software engineering at Helwan University and I love Web Development and I love programming in JavaScript ❤
  <!--
