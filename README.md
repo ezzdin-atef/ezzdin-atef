@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Laravel, Django**
 
-- 👨‍💻 All of my projects are available at [ezzdinatef.com](ezzdinatef.com)
+- 👨‍💻 All of my projects are available at [ezzdinatef.com](https://ezzdinatef.com)
 
-- 📝 I regularly write articles on [blog.ezzdinatef.com](blog.ezzdinatef.com)
+- 📝 I regularly write articles on [blog.ezzdinatef.com](https://blog.ezzdinatef.com)
 
 - 💬 Ask me about **JavaScript, React**
 
