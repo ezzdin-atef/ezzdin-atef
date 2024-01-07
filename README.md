@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Dashboard Starter Kit](https://github.com/ezzdin-atef/dashboard-starter-kit)
 
-- 🌱 I’m currently learning **Laravel, Django**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [ezzdinatef.com](https://ezzdinatef.com)
 
-- 📝 I regularly write articles on [blog.ezzdinatef.com](https://blog.ezzdinatef.com)
+- 📝 I regularly write articles on [dev.to/ezzdinatef](https://dev.to/ezzdinatef)
 
 - 💬 Ask me about **JavaScript, React**
 
