@@ -33,13 +33,14 @@
 | **[infra-panel](https://github.com/ezzdin-atef/infra-panel)** | 🖥️ Self-hosted panel for Ubuntu servers: Docker, Nginx, SSL, PostgreSQL, firewall, backups | TypeScript |
 | **[maily](https://github.com/ezzdin-atef/maily)** | 📬 Reads meeting invites over IMAP, extracts `.ics` events, and syncs them into a built-in calendar | Next.js |
 | **[starter-nodejs-backend](https://github.com/ezzdin-atef/starter-nodejs-backend)** | 🚀 Production-ready backend starter with Clean Architecture, auth, and robust error handling | Express, Prisma |
+| **[toggl-reporter](https://github.com/ezzdin-atef/toggl-reporter)** · [live](https://toggl-reporter-mu.vercel.app) | ⏱️ View and analyze Toggl Track time entries by month | Next.js, Tailwind CSS |
 
 ### 🛠️ Tech stack
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,python,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,html,css,sass,python,bash" alt="Languages" />
 </p>
 
 **Frontend**
@@ -59,20 +60,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,git,github,vercel,jest,cypress,postman,figma" alt="DevOps and tools" />
 </p>
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ezzdin-atef&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzdin-atef&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ezzdin-atef&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-### ☕ Support
-
-<a href="https://www.buymeacoffee.com/ezzdinatef">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee" />
-</a>
